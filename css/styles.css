@@ -738,7 +738,7 @@
     border: none;
 }
 
-.modal-check:checked+.modal-check-text .modal-checkbox-accept svg {
+.modal-check:checked+.modal-check-text .modal-checkbox-accept {
     fill: #f4f4fd !important;
 }
 
