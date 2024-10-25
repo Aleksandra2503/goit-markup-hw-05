@@ -733,12 +733,12 @@
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-check:checked+.modal-check-text .modal-checkbox-accept {
+.modal-check:checked + .modal-check-text .modal-checkbox-accept {
     background-color: #404bbf;
     border: none;
 }
 
-.modal-check:checked+.modal-check-text .modal-checkbox-accept svg {
+.modal-check:checked + .modal-check-text .modal-checkbox-accept svg {
     fill: #f4f4fd;
 }
 
