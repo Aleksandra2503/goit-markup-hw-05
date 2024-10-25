@@ -753,9 +753,9 @@
     fill: #2e2f42;
 }
 
-.modal-input:focus+.modal-icon {
+.input-wrapper:hover .person-light {
     fill: #4d5ae5;
-} 
+}
 
 .modal-textarea {
     resize: none;
@@ -772,7 +772,6 @@
     outline: transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
 
 .modal-textarea::placeholder,
 .modal-check-text {
