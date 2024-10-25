@@ -739,7 +739,7 @@
 }
 
 .modal-check:checked+.modal-check-text .modal-checkbox-accept {
-    fill: #f4f4fd !important;
+    fill: #f4f4fd;
 }
 
 .modal-privacy-link {
